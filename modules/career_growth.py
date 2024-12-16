@@ -1,7 +1,7 @@
 import openai
 
 # Set your OpenAI API key here
-openai.api_key = "OPENAI_API_KEY"  # Replace with your actual key
+# openai.api_key = "OPENAI_API_KEY"  # Replace with your actual key
 
 def predict_career_growth(resume_text):
     """

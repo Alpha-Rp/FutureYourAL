@@ -1,7 +1,7 @@
 import openai
 
 # Set your OpenAI API key here
-openai.api_key = "OPENAI_API_KEY"  # Replace with your actual API key
+# openai.api_key = "OPENAI_API_KEY"  # Replace with your actual API key
 
 def generate_growth_map(resume_text):
     """
