@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to right, #ff7e5f, #feb47b); /* Gradient background */
+    color: #ffffff; /* White text */
+}
+
+.stButton > button {
+    background-color: #ff4757; /* Button color */
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.stButton > button:hover {
+    background-color: #ff6b81; /* Darker red on hover */
+}
+
+.stExpander {
+    background-color: rgba(255, 255, 255, 0.1); /* Semi-transparent background for expanders */
+    color: #ffffff; /* White text */
+}
